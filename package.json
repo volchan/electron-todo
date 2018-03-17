@@ -1,0 +1,14 @@
+{
+  "name": "electron-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": "git@github.com:volchan/electron-todo.git",
+  "author": "stephane de la torre <s.dlt@hotmail.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}

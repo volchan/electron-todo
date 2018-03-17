@@ -6,7 +6,12 @@ let mainWindow;
 
 const menuTemplate = [
   {
-    label: "File"
+    label: "File",
+    submenu: [
+      {
+        label: "New Todo"
+      }
+    ]
   }
 ];
 
